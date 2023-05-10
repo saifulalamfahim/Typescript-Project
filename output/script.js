@@ -25,3 +25,17 @@ let person = {
 console.log(person);
 person.age = 100;
 console.log(person);
+let n;
+n = 25;
+console.log(n);
+let s = [];
+s.push(25, 25, "lomana", false);
+console.log(s);
+// Object
+let y;
+y = {
+    name: "abdul Kalam",
+    age: 66,
+    adult: true
+};
+console.log(y);

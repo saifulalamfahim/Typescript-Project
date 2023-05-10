@@ -46,3 +46,29 @@ person.age = 100;
 console.log(person);
 
 
+let n : number;
+
+n = 25;
+console.log(n)
+
+
+let s: (string | number | boolean)[] = [];
+
+s.push( 25, 25, "lomana", false);
+
+console.log(s);
+
+// Object
+
+let y: {
+    name: string,
+    age: number,
+    adult: boolean,
+}
+y = {
+    name: "abdul Kalam",
+    age: 66,
+    adult: true
+}
+
+console.log(y);
