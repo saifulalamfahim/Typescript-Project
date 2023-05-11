@@ -39,3 +39,21 @@ y = {
     adult: true
 };
 console.log(y);
+let q;
+q = 58;
+console.log(q);
+q = "amin";
+console.log(q);
+let w = [];
+w.push("galagali");
+console.log(w);
+w.push(98);
+console.log(w);
+w.push(true);
+console.log(w);
+let e;
+e = {
+    name: "kamal",
+    age: "hbscvsd",
+};
+console.log(e);

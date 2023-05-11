@@ -72,3 +72,38 @@ y = {
 }
 
 console.log(y);
+
+
+let q: any;
+
+q =58;
+
+console.log(q);
+q= "amin";
+
+console.log(q)
+
+let w: any[] = [];
+
+w.push("galagali");
+
+console.log(w);
+
+w.push(98);
+console.log(w);
+
+w.push(true);
+
+console.log(w);
+
+let e: {
+    name: any,
+    age: any,
+}
+
+e = {
+    name: "kamal",
+    age: "hbscvsd",
+}
+
+console.log(e)
